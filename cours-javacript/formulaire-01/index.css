@@ -1,0 +1,66 @@
+form{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    
+   
+
+}
+h2{
+    padding: 20px;
+    color: black;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    text-align: center;
+    width: 500px;
+    height:500px ;
+    border-radius: 9px;
+    background-color: rgb(221, 219, 214);
+
+}
+input{
+    width:290px;
+    height: 30px;
+    border-radius: 7px;
+    border: solid 2px cornflowerblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    text-align: center;
+}
+button {
+    color: black;
+    background-color:cornflowerblue;
+    height: 40px;
+    width: 190px;
+    border: solid cornflowerblue;
+    font-size: 18px;
+    font-family:  'Franklin Gothic Medium';
+    border-radius: 10px;
+}
+.error-01{
+    display: none;
+}
+.error-02{
+    display: none;
+}
+.error-03{
+    display: none;
+}
+.error-04{
+    display: none;
+}
+.error-05{
+    display: none;
+}
+span{
+    display: block;
+    color: red;
+}
+.error{
+    border: solid red;
+}

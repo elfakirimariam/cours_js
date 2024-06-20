@@ -1,0 +1,23 @@
+
+{  "stagiaires":[
+    {
+        "id":1,
+        "nom":"marie batoul prenant",
+        "age":25
+
+    },
+    {
+        "id":3,
+        "nom":"ouenza",
+        "age":30
+
+    },
+    {
+        "id":5,
+        "nom":"katorz",
+        "age":24
+    }
+
+]}
+
+

@@ -1,0 +1,14 @@
+.change_border_color{
+    border: solid 2px aqua;
+}
+.error{
+    border: solid 2px red;
+}
+.error-login{
+    display: none;
+}
+
+span {
+    display: block;
+    color: red;
+}
